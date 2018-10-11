@@ -31,6 +31,10 @@ public class Customer {
         this.age = age;
     }
 
+    public Customer(){
+
+    }
+
     public Long getId() {
         return id;
     }
