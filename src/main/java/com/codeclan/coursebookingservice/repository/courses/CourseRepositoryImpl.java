@@ -1,4 +1,7 @@
 package com.codeclan.coursebookingservice.repository.courses;
 
-public class CourseRepositoryImpl {
+import org.springframework.stereotype.Repository;
+
+
+public class CourseRepositoryImpl  {
 }
